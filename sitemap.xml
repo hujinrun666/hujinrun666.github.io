@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/friends/index.html</loc>
+    
+    <lastmod>2020-12-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/11/29/new-start-of-hexo/</loc>
     
     <lastmod>2020-11-29</lastmod>
